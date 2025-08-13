@@ -38,7 +38,7 @@ python smart_text_analyzer.py --text "..." --only-sentences
 
 Why it's GitHub-friendly
 ------------------------
-• Zero-config single file, type-hinted, with pretty CLI U
+• Zero-config single file, type-hinted, with pretty CLI UX
 • JSON mode plays nice with CI (e.g., annotate PRs with sentiment)
 • No heavy deps beyond TextBlob
 
