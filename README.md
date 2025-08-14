@@ -380,5 +380,5 @@ def main(argv: List[str] | None = None) -> int:
     return 0
 
 
-if __name__ == "__main__":  # pragma: no cover
+if __name__ == "__main__":  # pragma: no cove
     raise SystemExit(main())
