@@ -54,7 +54,7 @@ import sys
 from collections import Counter
 from dataclasses import dataclass, asdict
 from pathlib import Path
-from typing import Iterable, List, Dict, Tuple
+from typing import Iterable, List, Dict, Tupl
 
 try:
     from textblob import TextBlob
