@@ -215,7 +215,7 @@ def read_file(path: Path) -> str:
 def collect_texts(root: Path) -> Dict[str, str]:
     data: Dict[str, str] = {}
     for p in root.rglob("*"):
-        if p.is_file() and p.suffix.lower() in SUPPORTED_EXT:
+        if p.is_file() and p.suffix.lower() in SUPPORTED_EXTS:
             data[str(p)] = read_file(p)
     return data
 
