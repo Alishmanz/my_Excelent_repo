@@ -235,7 +235,7 @@ def fmt_table(pairs: List[Tuple[str, int]], title: str) -> str:
     return "\n".join(lines)
 
 
-def print_report(result: Analysis, *, only_sentences: bool = False) -> None:
+def print_report(result: Analysis, *, only_sentences: bool = False) -> :
     if only_sentences:
         print("Most positive:")
         for s in result.sentences.most_positive:
