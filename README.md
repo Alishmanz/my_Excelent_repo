@@ -42,7 +42,7 @@ Why it's GitHub-friendly
 • JSON mode plays nice with CI (e.g., annotate PRs with sentiment)
 • No heavy deps beyond TextBlob
 
-License: MIT
+License: 
 """
 from __future__ import annotations
 
