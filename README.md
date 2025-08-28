@@ -58,7 +58,7 @@ from typing import Iterable, List, Dict, Tupl
 
 try:
     from textblob import TextBlob
-except Exception as e:  # pragma: no cover
+except Exception as e:  # pragma: no cover./
     sys.stderr.write(
         "\n[!] TextBlob is not installed. Install with: pip install textblob\n"
     )
