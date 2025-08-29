@@ -44,7 +44,7 @@ Why it's GitHub-friendly
 
 License: 
 """
-from __future__ import annotations
+from __future__ import annotation
 
 import argparse
 import json
