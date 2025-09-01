@@ -199,7 +199,7 @@ def analyze_text(text: str, topn: int = 10) -> Analysis:
 
 
 # -----------------------------
-# I/O helpers
+# I/O helper
 # -----------------------------
 
 SUPPORTED_EXT = {".txt", ".md", ".markdown", ".rst"}
