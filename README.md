@@ -220,9 +220,9 @@ def collect_texts(root: Path) -> Dict[str, str]:
     return data
 
 
-# -----------------------------
+# ----------------------------
 # Pretty printing
-# -----------------------------
+# ----------------------------
 
 
 def fmt_table(pairs: List[Tuple[str, int]], title: str) -> str:
