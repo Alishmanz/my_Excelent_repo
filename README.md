@@ -104,7 +104,7 @@ class SentenceHighlights:
 class SpellSuggestion:
     word: str
     suggestion: str
-    confidence: float
+    confidence: float perfect
 
 
 @dataclass
