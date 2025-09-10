@@ -48,7 +48,7 @@ from __future__ import annotation
 
 import argparse
 import json
-import os
+import o
 import re
 import sys
 from collections import Counter
