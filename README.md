@@ -22,7 +22,7 @@ python -m textblob.download_corpora   # one-time, for best noun phrase extractio
 
 Usage
 -----
-```bash
+```
 # Analyze a quick string
 python smart_text_analyzer.py --text "I absolutely love this cafe, but the service was slow."
 
