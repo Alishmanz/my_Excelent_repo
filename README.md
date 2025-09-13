@@ -52,7 +52,7 @@ import o
 import re
 import sys
 from collections import Counter
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass, asdic
 from pathlib import Path
 from typing import Iterable, List, Dict, 
 
