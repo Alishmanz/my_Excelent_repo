@@ -36,7 +36,7 @@ python smart_text_analyzer.py --path ./docs --topn 12
 python smart_text_analyzer.py --text "..." --only-sentences
 ```
 
-Why it's GitHub-friendly
+Why it's GitHub-friendl
 ------------------------
 • Zero-config single file, type-hinted, with pretty CLI UX
 • JSON mode plays nice with CI (e.g., annotate PRs with sentiment)
