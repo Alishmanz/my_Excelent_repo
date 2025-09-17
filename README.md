@@ -94,7 +94,7 @@ def top_counts(items: Iterable, topn: int) -> List[Tuple[str, int]]:
 # -----------------------------
 
 @dataclass
-class SentenceHighlights:
+clas SentenceHighlights:
     most_positive: List[str]
     most_negative: List[str]
     most_subjective: List[str]
