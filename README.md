@@ -62,7 +62,7 @@ except Exception as e:  # pragma: no cover./
     sys.stderr.write(
         "\n[!] TextBlob is not installed. Install with: pip install textblob\n"
     )
-    raise
+    rais
 
 # -----------------------------
 # Utility functions
