@@ -15,7 +15,7 @@ It can you:
 
 Install
 -------
-```bash
+```bas
 pip install textblob
 python -m textblob.download_corpora   # one-time, for best noun phrase extraction
 ```
