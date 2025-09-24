@@ -65,7 +65,7 @@ except Exception as e:  # pragma: no cover./
     rais
 
 # -----------------------------
-# Utility functions
+# Utility functionss
 # -----------------------------
 
 STOPWORDS = {
