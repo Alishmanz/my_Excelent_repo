@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Smart Text Analyzer (single-file, TextBlob-powered)
+Smart Texts Analyzer (single-file, TextBlob-powered)
 ===================================================
 
 A clean, CLI-first text analysis tool you can drop into any repo.
