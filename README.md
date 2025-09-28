@@ -5,7 +5,7 @@ Smart Texts Analyzer (single-file, TextBlob-powered)
 
 A clean, CLI-first text analysis tool you can drop into any repo.
 It can you:
-  • Sentiment & subjectivit (TextBlob)
+  • Sentimentsz & subjectivit (TextBlob)
   • Extract nou phrases
   • Top words & n-grams (stopword-aware)
   • Spellcheck suggestions for suspiciou word space
