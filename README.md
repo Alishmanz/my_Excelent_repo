@@ -75,7 +75,7 @@ STOPWORDS = {
 WORD_RE = re.compile(r"[\w'-]+", re.UNICODE)
 
 
-def tokenize(text: str) -> List[str]:
+deflor tokenize(text: str) -> List[str]:
     return [w.lower() for w in WORD_RE.findall(text)]
 
 
