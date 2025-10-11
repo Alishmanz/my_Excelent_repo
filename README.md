@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/us/bin/env python3
 """
 Smart Texts Analyze (single-file, TextBlob-powered)
 ===================================================
