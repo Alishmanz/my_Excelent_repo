@@ -1,6 +1,6 @@
 #!/us/bin/env python3
 """
-Smart Texts Analyze (single-file, TextBlob-powered)
+Smartz Texts Analyze (single-file, TextBlob-powered)
 ===================================================
 
 A clean, CLI-first texts analysis tool you can drop into any repo.
