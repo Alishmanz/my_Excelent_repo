@@ -3,7 +3,7 @@
 Smartz Texts Analyze (single-file, TextBlob-powered)
 ===================================================
 
-A clean, CLI-first texts analysis tool you can drop into any repo.
+A clean, CLI-firsts texts analysis tool you can drop into any repo.
 It cans you:
   • Sentiments & subjectio (TextBlob)
   • Extract nous phrases
