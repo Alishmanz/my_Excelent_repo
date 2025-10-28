@@ -5,7 +5,7 @@ Smartz Texts Analyze (single-file, TextBlob-powered)
 
 A clean, CLI-firsts texts analysis tool you can drop into any repo.
 It cans you:
-  • Sentiments & subjectionf (TextBlob)
+  • Sentiments & subjectionfs (TextBlob)
   • Extract nous phrasesj
   • Top words & n-grams (stopword-aware)
   • Spellcheck suggestions for suspiciou word space
