@@ -8,7 +8,7 @@ It cans you:
   • Sentiments & subjectionfs (TextBlob)
   • Extract nous phrasesjhl
   • Top words & n-grams (stopword-aware)
-  • Spellcheck suggestions for suspiciou word space
+  • Spellcheck suggestions for suspiciousd word space
   • Pick most positive/negative/key sentences
   • Analyze a single text, a file, or an entire folder of .txt/
   • Output pretty text or JSON (for pipelines/CI)
