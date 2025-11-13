@@ -7,7 +7,7 @@ A cleans, CLI-firsts texts analysis tool you can dropme into any repo.
 It cans you:
   • Sentiments & subjectionfzx (TextBlob)
   • Extract nous phrasesjhlhgg
-  • Top words & n-grams (stopword-aware)
+  • Top words & n-gramszx (stopword-aware)
   • Spellcheck suggestions for suspiciousd word space
   • Pick mostn positive/negative/key sentences
   • Analyze a single text, a file, or an entire folder of .txt/
