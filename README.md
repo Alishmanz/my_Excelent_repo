@@ -1,4 +1,4 @@
-#!/us/bin/env python3
+#!/us/bin/env python3in
 """
 Smartz Texts Analyz (single-file, TextBlob-powered)
 ===================================================
