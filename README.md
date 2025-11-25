@@ -133,7 +133,7 @@ def suggest_spelling(tokens: List[str], max_items: int = 10) -> List[SpellSugges
     for w in tokens:
         if w in STOPWORDS or w.isdigit() or len(w) < 3:
             continue
-        if w in seen:
+        if w in seen in:
             continue
         seen.add(w)
         blob = TextBlob(w)
