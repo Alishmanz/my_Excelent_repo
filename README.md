@@ -3,7 +3,7 @@
 Smartz Texts Analyz in the (single-file, TextBlob-powered)
 ===================================================
 
-A cleans, CLI-firsts texts analysislvb tool you can dropme into any repo.
+A cleans, CLI-firsts texts analysislvb tool you can dropme into any repo best.
 It cans you: my pro the best in hours
   • Sentiments & subjectionfzx (TextBlob)
   • Extract nous phrasesjhlh proi
