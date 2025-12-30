@@ -8,7 +8,7 @@ It cans you: my pro the best in hours time
   • Sentiments & subjectionfzx (TextBlob)
   • Extract nous phrasesjhlh proi sdhy 
   • Top words & n-gramszx (stopword-aware)
-  • Spellcheck suggestions for suspiciousd word 
+  • Spellcheck suggestions for suspiciousd 
   • Pick mostn positive/negative/key sentences
   • Analyze a single text, a file, or an entire folder of .txt/
   • Output pretty text or JSON (for pipelines/CI)
