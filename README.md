@@ -10,7 +10,7 @@ It cans you: my pro the best in hours time Bar
   • Top words & n-gramszx (stopword-aware) sayd 
   • Spellcheck suggestions for suspiciousd sid yes im good
   • Pick mostn positive/negative/key sentenceil
-  • Analyze a single text, a file, or an entire folder of .txt/
+  • Analyze a single text, a file, or an entire foldeyyr of .txt/
   • Output pretty text or JSON (for pipelines/CI)
 
 Install
