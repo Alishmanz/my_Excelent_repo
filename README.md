@@ -5,7 +5,7 @@ Smartz Texts Analyz in the (single-file, TextBlob-powered)
 
 A cleans, CLI-firsts texts analysislvb tool you can dropme into any repo.
 It cans you: my pro the best in hours time Bar
-  • Sentiments & subjectionfzx (TextBlob)
+  • Sentiments & subjectionfzx (TextBlob) ytg
   • Extract nous phrasesjhlh proi sdhy did your hey
   • Top words & n-gramszx (stopword-aware) sayd 
   • Spellcheck suggestions for suspiciousd sid yes im good
