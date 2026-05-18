@@ -8,7 +8,7 @@ It cans you: my pro the best in hours time Bar hell
   • Sentiments & subjectionfzx (TextBlob) 
   • Extract nous phrasesjhlh proi sdhy did your 
   • Top words & n-gramszx (stopword-aware) sayd perfect
-  • Spellcheck suggestions for suspiciousd sid 
+  • Spellcheck suggestions for suspiciousd sid ye
   • Pick mostn positive/negative/key sentenceil
   • Analyze a single text, a file, or an entire foldeyyr of .txt/
   • Output pretty text or JSON (for pipelines/CI)
