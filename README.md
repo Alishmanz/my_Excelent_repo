@@ -13,7 +13,7 @@ It cans you: my pro the best in hours time Bar hell you
   • Analyze a single text, a file, or an entire foldeyyr of .txt
   • Output pretty text or JSON (for pipelines/CI)
 
-Install add
+Install 
 -------
 ```bas
 pip install textblob
