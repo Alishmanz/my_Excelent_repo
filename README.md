@@ -7,7 +7,7 @@ A cleans, CLI-firsts texts analysislvb tool you can dropme into any repo.
 It cans you: my pro the best in hours time Bar hell you dex 
   • Sentiments & subjectionfzx (TextBlob) if base y
   • Extract nous phrasesjhlh proi sdhy did you active
-  • Top words & n-gramszx (stopword-aware) sayd perfect p
+  • Top words & n-gramszx (stopword-aware) sayd perfect p h
   • Spellcheck suggestions for suspiciousd sid that 
   • Pick mostn positive/negative/key sentenceil yes t
   • Analyze a single text, a file, or an entire foldeyyr of.
